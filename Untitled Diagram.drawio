@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T15:16:06.785Z" agent="5.0 (Windows)" etag="aNGaknO4aBEZtoUf9zRd" version="16.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-24T15:18:39.799Z" agent="5.0 (Windows)" etag="VdruUZXUj0cRuEoEXtF9" version="16.5.3" type="github" pages="2">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -303,8 +303,8 @@
             <mxPoint x="450" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-13" value="&lt;div&gt;Y/N&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
-          <mxGeometry x="355" y="105" width="30" height="30" as="geometry" />
+        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-13" value="&lt;div&gt;&lt;b&gt;Y/N&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
+          <mxGeometry x="350" y="105" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1" target="CpnRU-Wl4-RKQmtnmkoQ-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -315,14 +315,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-15" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
-          <mxGeometry x="300" y="190" width="20" height="20" as="geometry" />
+        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-26" value="1 .get CM/DM PAyload Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CpnRU-Wl4-RKQmtnmkoQ-14">
+          <mxGeometry x="-0.695" y="-2" relative="1" as="geometry">
+            <mxPoint x="47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-15" value="&lt;b&gt;Y&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
+          <mxGeometry x="230" y="190" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-16" value="DM_AWB Payload Package" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
           <mxGeometry x="430" y="250" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-17" value="1 .get AWB PAyload Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
-          <mxGeometry x="260" y="220" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1" source="CpnRU-Wl4-RKQmtnmkoQ-16" target="CpnRU-Wl4-RKQmtnmkoQ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -348,13 +350,18 @@
             <mxPoint x="240" y="142" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.12;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1" source="CpnRU-Wl4-RKQmtnmkoQ-6">
+        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.12;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.422;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1" source="CpnRU-Wl4-RKQmtnmkoQ-6" target="CpnRU-Wl4-RKQmtnmkoQ-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="240" as="sourcePoint" />
             <mxPoint x="140" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-24" value="HMS AWB Package" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
+        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-25" value="&lt;div&gt;3.CM/DM Call&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CpnRU-Wl4-RKQmtnmkoQ-23">
+          <mxGeometry x="-0.2189" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-24" value="&lt;div&gt;HMS CM/DM &lt;br&gt;&lt;/div&gt;&lt;div&gt;Package&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
           <mxGeometry x="60" y="350" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
