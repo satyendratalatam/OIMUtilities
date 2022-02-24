@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T15:04:04.927Z" agent="5.0 (Windows)" etag="6SO62e3zA4jo2R_UbFWx" version="16.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-24T15:05:03.645Z" agent="5.0 (Windows)" etag="XllrnOPaKu2peQfGBXnE" version="16.5.3" type="github" pages="2">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -305,6 +305,21 @@
             <mxPoint x="400" y="240" as="sourcePoint" />
             <mxPoint x="450" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-13" value="&lt;div&gt;Y/N&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
+          <mxGeometry x="355" y="105" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1" source="CpnRU-Wl4-RKQmtnmkoQ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="sourcePoint" />
+            <mxPoint x="285" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-15" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
+          <mxGeometry x="300" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CpnRU-Wl4-RKQmtnmkoQ-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="CpnRU-Wl4-RKQmtnmkoQ-1">
+          <mxGeometry x="380" y="250" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
