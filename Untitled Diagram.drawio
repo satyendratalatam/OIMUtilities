@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T11:34:13.170Z" agent="5.0 (Windows)" etag="q1YK5HTAWJUMQ0HllyMD" version="16.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-03T11:35:06.274Z" agent="5.0 (Windows)" etag="Asgymfgwqd5RSrMUcC7Q" version="16.6.3" type="github" pages="3">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -466,7 +466,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vF75_odhd93OFB_oTh3M-19" value="FiServ Portal - Tokenization" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/api_developer_portal.svg;" vertex="1" parent="UTT_Sxps0qm2ltLpW223-1">
+        <mxCell id="vF75_odhd93OFB_oTh3M-19" value="&lt;b&gt;FiServ Portal - Tokenization&lt;/b&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/api_developer_portal.svg;" vertex="1" parent="UTT_Sxps0qm2ltLpW223-1">
           <mxGeometry x="160" y="430" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vF75_odhd93OFB_oTh3M-22" value="&lt;b&gt;VISA|Master|AMEX&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/finance-152/64/12-128.png" vertex="1" parent="UTT_Sxps0qm2ltLpW223-1">
@@ -479,6 +479,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="410" as="sourcePoint" />
             <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vF75_odhd93OFB_oTh3M-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="vF75_odhd93OFB_oTh3M-26">
+          <mxGeometry x="-0.3333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vF75_odhd93OFB_oTh3M-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UTT_Sxps0qm2ltLpW223-1" source="vF75_odhd93OFB_oTh3M-25" target="vF75_odhd93OFB_oTh3M-22">
