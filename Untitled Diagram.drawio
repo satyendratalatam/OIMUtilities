@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T03:14:20.010Z" agent="5.0 (Windows)" etag="T0mV6o9q9QW0FxyufXku" version="16.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-03T03:15:29.242Z" agent="5.0 (Windows)" etag="ACecPRb8r3mjKvowoaxM" version="16.6.3" type="github" pages="3">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -465,6 +465,9 @@
               <mxPoint x="545" y="297" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vF75_odhd93OFB_oTh3M-19" value="FiServ" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/api_developer_portal.svg;" vertex="1" parent="UTT_Sxps0qm2ltLpW223-1">
+          <mxGeometry x="170" y="430" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
