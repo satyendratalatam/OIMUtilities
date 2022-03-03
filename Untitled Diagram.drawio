@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T03:16:23.296Z" agent="5.0 (Windows)" etag="_nGdx7zi48U47PjyXDTq" version="16.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-03T03:16:41.403Z" agent="5.0 (Windows)" etag="p74d_QNeyC1OUnIqWb4C" version="16.6.3" type="github" pages="3">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -470,7 +470,10 @@
           <mxGeometry x="160" y="430" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vF75_odhd93OFB_oTh3M-22" value="&lt;b&gt;VISA|Master|AMEX&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/finance-152/64/12-128.png" vertex="1" parent="UTT_Sxps0qm2ltLpW223-1">
-          <mxGeometry x="620" y="443" width="44" height="44" as="geometry" />
+          <mxGeometry x="530" y="443" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="vF75_odhd93OFB_oTh3M-25" value="HPS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="UTT_Sxps0qm2ltLpW223-1">
+          <mxGeometry x="350" y="425" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
