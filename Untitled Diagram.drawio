@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T19:55:16.256Z" agent="5.0 (Windows)" etag="igkcU6R7Zm7qhBAWLCqW" version="16.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-03T19:55:32.662Z" agent="5.0 (Windows)" etag="0KegRlHOxdtdiVdWHI3x" version="16.6.3" type="github" pages="3">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -421,17 +421,6 @@
             <Array as="points">
               <mxPoint x="380" y="238" />
               <mxPoint x="380" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vF75_odhd93OFB_oTh3M-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;Payment GW APIs&lt;/font&gt;&lt;/b&gt;" style="endArrow=classic;html=1;rounded=0;exitX=1.029;exitY=0.371;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="UTT_Sxps0qm2ltLpW223-1" source="vF75_odhd93OFB_oTh3M-3" target="vF75_odhd93OFB_oTh3M-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="290" as="sourcePoint" />
-            <mxPoint x="450" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="390" y="246" />
-              <mxPoint x="390" y="288" />
-              <mxPoint x="390" y="298" />
             </Array>
           </mxGeometry>
         </mxCell>
