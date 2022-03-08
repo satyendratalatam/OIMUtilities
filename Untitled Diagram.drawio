@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T22:53:21.634Z" agent="5.0 (Windows)" etag="KuabFTxas48nyJxy9v3t" version="16.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-08T23:06:05.372Z" agent="5.0 (Windows)" etag="mqgwihKrSVwNpuqkGk2i" version="16.6.3" type="github" pages="4">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1038" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -592,10 +592,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MGfeK18HPAxZFO5hYzF4-21" value="AS IS Data Flow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#143642;" vertex="1" parent="ae_N-gCMwsdookwL0sPa-1">
-          <mxGeometry x="660" y="110" width="120" height="30" as="geometry" />
+          <mxGeometry x="580" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MGfeK18HPAxZFO5hYzF4-22" value="LSP Integrattion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#143642;" vertex="1" parent="ae_N-gCMwsdookwL0sPa-1">
-          <mxGeometry x="660" y="140" width="120" height="30" as="geometry" />
+          <mxGeometry x="585" y="130" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
