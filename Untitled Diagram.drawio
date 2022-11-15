@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T16:07:53.275Z" agent="5.0 (Windows)" etag="IC2uKQ2fCQO3R0Of3VWX" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-15T16:08:35.007Z" agent="5.0 (Windows)" etag="Tzgai1P9m8eLFD2MMbdU" version="20.5.1" type="github" pages="5">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -618,10 +618,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uUsqEQt1h5XkDI8wcdwz-1" value="RMA Refund Form" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="150" y="120" width="70" height="70" as="geometry" />
+          <mxGeometry x="150" y="120" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uUsqEQt1h5XkDI8wcdwz-2" value="HMS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="70" height="70" as="geometry" />
+          <mxGeometry x="320" y="120" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
