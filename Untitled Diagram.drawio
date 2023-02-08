@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T00:51:08.938Z" agent="5.0 (Windows)" etag="GWN1shiaCYi5FAXQlFzQ" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-08T00:53:42.338Z" agent="5.0 (Windows)" etag="wRtibMI7TdrzGXPWf2PM" version="20.6.0" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -658,7 +658,7 @@
         <mxCell id="a8wutkqNyRdgr3PLpZDx-11" value="&lt;b&gt;Order Support Approves the refund&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="175" y="75" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e5sSvvot5778Ec6Fl-JR-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.589;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="uUsqEQt1h5XkDI8wcdwz-6">
+        <mxCell id="e5sSvvot5778Ec6Fl-JR-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.589;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="uUsqEQt1h5XkDI8wcdwz-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="200" as="sourcePoint" />
             <mxPoint x="590" y="200" as="targetPoint" />
@@ -667,12 +667,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e5sSvvot5778Ec6Fl-JR-3" value="&lt;div&gt;&lt;b&gt;RMA pushes refunds in to HMS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Finance through Automation&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e5sSvvot5778Ec6Fl-JR-2">
+        <mxCell id="e5sSvvot5778Ec6Fl-JR-3" value="&lt;div&gt;&lt;b&gt;RMA pushes refunds in to HMS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Finance through Automation&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e5sSvvot5778Ec6Fl-JR-2" vertex="1" connectable="0">
           <mxGeometry x="0.3436" y="2" relative="1" as="geometry">
             <mxPoint x="19" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e5sSvvot5778Ec6Fl-JR-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.608;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="a8wutkqNyRdgr3PLpZDx-9">
+        <mxCell id="e5sSvvot5778Ec6Fl-JR-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.608;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="a8wutkqNyRdgr3PLpZDx-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="50" as="sourcePoint" />
             <mxPoint x="780" y="40" as="targetPoint" />
@@ -682,10 +682,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e5sSvvot5778Ec6Fl-JR-5" value="&lt;div&gt;&lt;b&gt;HMS updates the status &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;back to RMA on Payment Status&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e5sSvvot5778Ec6Fl-JR-4">
+        <mxCell id="e5sSvvot5778Ec6Fl-JR-5" value="&lt;div&gt;&lt;b&gt;HMS updates the status &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;back to RMA on Payment Status&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e5sSvvot5778Ec6Fl-JR-4" vertex="1" connectable="0">
           <mxGeometry x="-0.1418" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bRveYutDLUsxMJOCULvF" name="Page-6">
+    <mxGraphModel dx="1221" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RSH5sy_0qvbEPN5NQJVI-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
