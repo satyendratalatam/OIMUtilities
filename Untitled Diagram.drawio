@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T13:29:11.371Z" agent="5.0 (Windows)" etag="HwQhRUavja7GLkCW93ft" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T13:29:35.090Z" agent="5.0 (Windows)" etag="3F4Re4Y56ur4zlj81_C5" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -834,9 +834,6 @@
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-52" value="&lt;ol&gt;&lt;li&gt;GBS Krakow&lt;/li&gt;&lt;li&gt;Segregation of Duties&lt;br&gt;&lt;/li&gt;&lt;li&gt;AP AR Automation&lt;/li&gt;&lt;li&gt;Approval Workflow ?&lt;/li&gt;&lt;li&gt;CM DM Creation - This would be based on Change Order in OM . Manual Decision&lt;/li&gt;&lt;li&gt;GL Codes?&lt;/li&gt;&lt;li&gt;OFAC Screening ?&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1740" y="-765" width="210" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-43" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;labelBorderColor=none;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="-1140" width="180" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="RSH5sy_0qvbEPN5NQJVI-7" value="&lt;b&gt;Customer&lt;/b&gt;" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="-905" width="140" height="140" as="geometry" />
         </mxCell>
@@ -849,10 +846,10 @@
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-45" value="&lt;div&gt;Propay, Paypal - &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment Directly &lt;br&gt;&lt;/div&gt;&lt;div&gt;issued by MS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1555" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zleqKUxU88c-zGdEO-kY-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7YMeWKjVSqpXMXS0vWH2-34" target="7YMeWKjVSqpXMXS0vWH2-43">
+        <mxCell id="zleqKUxU88c-zGdEO-kY-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7YMeWKjVSqpXMXS0vWH2-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1430" y="-660" as="sourcePoint" />
-            <mxPoint x="1480" y="-710" as="targetPoint" />
+            <mxPoint x="1751.9799999999996" y="-1032" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zleqKUxU88c-zGdEO-kY-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="7YMeWKjVSqpXMXS0vWH2-34">
@@ -900,7 +897,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zleqKUxU88c-zGdEO-kY-54" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="-1246" width="99" height="86" as="geometry" />
+          <mxGeometry x="1755" y="-1120" width="180" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
