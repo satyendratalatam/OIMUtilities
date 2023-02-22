@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T17:25:27.446Z" agent="5.0 (Windows)" etag="7ZKqKytK3QQqO80ikeJg" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T17:25:37.448Z" agent="5.0 (Windows)" etag="DUSIa2GFQJlTApxCxGJ3" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -944,6 +944,9 @@
         </mxCell>
         <mxCell id="zleqKUxU88c-zGdEO-kY-67" value="Payment issued by VendorManagement/AP/AR " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1369.9970935145836" y="29.997927605835343" as="geometry" />
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-76" value="Warehouse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-1235" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
