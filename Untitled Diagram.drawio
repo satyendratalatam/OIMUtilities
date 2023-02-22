@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T03:03:49.905Z" agent="5.0 (Windows)" etag="evoePaCELAjd1airNnoP" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T03:04:58.479Z" agent="5.0 (Windows)" etag="HENA0ZJejGPEV-mUD_wP" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -698,14 +698,14 @@
         <mxCell id="RSH5sy_0qvbEPN5NQJVI-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" parent="1" vertex="1">
           <mxGeometry x="40" y="70" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RSH5sy_0qvbEPN5NQJVI-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ui-essential-17/32/UI_Essential_Outline_2_essential-app-ui-support-help-headset-34-128.png" parent="1" vertex="1">
-          <mxGeometry x="180" y="70" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;" edge="1" parent="1" source="RSH5sy_0qvbEPN5NQJVI-7" target="RSH5sy_0qvbEPN5NQJVI-12">
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;" edge="1" parent="1" source="RSH5sy_0qvbEPN5NQJVI-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="290" as="sourcePoint" />
-            <mxPoint x="450" y="240" as="targetPoint" />
+            <mxPoint x="190" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
