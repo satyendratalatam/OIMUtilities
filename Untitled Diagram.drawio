@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T17:20:25.595Z" agent="5.0 (Windows)" etag="T0_iYzCbLDgYG5lrZXz-" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T17:22:34.277Z" agent="5.0 (Windows)" etag="TqZFEWvFVyiwFM5cJBP4" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -805,6 +805,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-74" value="&lt;div&gt;&lt;b&gt;NO IR required Profit&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Details feed to MCS System&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zleqKUxU88c-zGdEO-kY-38">
+          <mxGeometry x="-0.0229" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zleqKUxU88c-zGdEO-kY-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-63" source="7YMeWKjVSqpXMXS0vWH2-11" target="7YMeWKjVSqpXMXS0vWH2-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="980" y="880" as="sourcePoint" />
@@ -908,9 +913,6 @@
         <mxCell id="zleqKUxU88c-zGdEO-kY-54" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1755" y="-1120" width="180" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zleqKUxU88c-zGdEO-kY-57" value="&lt;div&gt;&lt;b&gt;NO IR required Profit&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Details feed to MCS System&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-50" width="180" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="zleqKUxU88c-zGdEO-kY-62" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.928;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7YMeWKjVSqpXMXS0vWH2-11" target="zleqKUxU88c-zGdEO-kY-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="-400" as="sourcePoint" />
@@ -922,8 +924,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zleqKUxU88c-zGdEO-kY-63" value="&lt;div&gt;Propay, Paypal - &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment Directly &lt;br&gt;&lt;/div&gt;&lt;div&gt;issued by MS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1215" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="zleqKUxU88c-zGdEO-kY-73" value="&lt;div&gt;Propay, Paypal - &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment Directly &lt;br&gt;&lt;/div&gt;&lt;div&gt;issued by MS&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zleqKUxU88c-zGdEO-kY-62">
+          <mxGeometry x="0.0094" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-65" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.378;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7YMeWKjVSqpXMXS0vWH2-11" target="7YMeWKjVSqpXMXS0vWH2-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="40" as="sourcePoint" />
+            <mxPoint x="1640" y="-345" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="30" />
+              <mxPoint x="1840" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-67" value="Payment issued by VendorManagement/AP/AR " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1369.9970935145836" y="29.997927605835343" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
