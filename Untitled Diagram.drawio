@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T03:56:25.692Z" agent="5.0 (Windows)" etag="Fe9_UIm9XT4L48J8CZfU" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T03:57:06.918Z" agent="5.0 (Windows)" etag="f48mtr0vOqocNH6H8O8a" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -696,16 +696,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-60" value="" style="group;rounded=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;html=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-20" y="-150" width="1780" height="820" as="geometry" />
-        </mxCell>
-        <mxCell id="RSH5sy_0qvbEPN5NQJVI-7" value="&lt;b&gt;Customer&lt;/b&gt;" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" parent="7YMeWKjVSqpXMXS0vWH2-60" vertex="1">
-          <mxGeometry y="210" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-1" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="270" as="sourcePoint" />
-            <mxPoint x="190" y="270" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-80" y="-210" width="1780" height="820" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-2" value="&lt;b&gt;Call Center Agent &lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
           <mxGeometry x="190" y="210" width="100" height="100" as="geometry" />
@@ -814,6 +805,9 @@
             <mxPoint x="710" y="585" as="sourcePoint" />
             <mxPoint x="970" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RSH5sy_0qvbEPN5NQJVI-7" value="&lt;b&gt;Customer&lt;/b&gt;" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" parent="7YMeWKjVSqpXMXS0vWH2-60" vertex="1">
+          <mxGeometry y="210" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
