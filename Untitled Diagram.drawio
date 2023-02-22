@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T17:24:01.288Z" agent="5.0 (Windows)" etag="J-Xtcnu2jxpF3VoB0erW" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T17:25:27.446Z" agent="5.0 (Windows)" etag="7ZKqKytK3QQqO80ikeJg" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bRveYutDLUsxMJOCULvF" name="Page-6">
-    <mxGraphModel dx="3850" dy="3660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3475" dy="3478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -844,6 +844,9 @@
             <mxPoint x="1080" y="590" as="sourcePoint" />
             <mxPoint x="1130" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-75" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;As is process&lt;/li&gt;&lt;li&gt;Customer Details&lt;/li&gt;&lt;li&gt;Customer Product Details&lt;/li&gt;&lt;li&gt;Restock&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;align=left;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="1220" y="-80" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-52" value="&lt;ol&gt;&lt;li&gt;GBS Krakow&lt;/li&gt;&lt;li&gt;Segregation of Duties&lt;br&gt;&lt;/li&gt;&lt;li&gt;AP AR Automation&lt;/li&gt;&lt;li&gt;Approval Workflow ?&lt;/li&gt;&lt;li&gt;CM DM Creation - This would be based on Change Order in OM . Manual Decision&lt;/li&gt;&lt;li&gt;GL Codes?&lt;/li&gt;&lt;li&gt;OFAC Screening ?&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1740" y="-765" width="210" height="260" as="geometry" />
