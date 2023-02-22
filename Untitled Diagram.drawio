@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T03:57:06.918Z" agent="5.0 (Windows)" etag="f48mtr0vOqocNH6H8O8a" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T04:07:59.441Z" agent="5.0 (Windows)" etag="dD0600XcYhuWdPcW_J4z" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -613,7 +613,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6rICx5U_rUwtrV_16dFY" name="Page-5">
-    <mxGraphModel dx="1038" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -634,7 +634,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a8wutkqNyRdgr3PLpZDx-3" value="&lt;div&gt;1.In RMA we process full and partial cancellations.&lt;/div&gt;&lt;div&gt;2.Get Latest Change order and derive the refund due based on Payment lines&lt;/div&gt;&lt;div&gt;3. ADJ and OS ACTION from payment lines used for deriving net refund due &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="a8wutkqNyRdgr3PLpZDx-3" value="&lt;div&gt;1.In RMA we process full and partial cancellations.&lt;/div&gt;&lt;div&gt;2.Get Latest Change order and derive the refund due based on Payment lines&lt;/div&gt;&lt;div&gt;3. ADJ and OS ACTION from payment lines used for deriving net refund due &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;container=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="-210" width="245" height="220" as="geometry" />
         </mxCell>
         <mxCell id="a8wutkqNyRdgr3PLpZDx-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uUsqEQt1h5XkDI8wcdwz-6" target="uUsqEQt1h5XkDI8wcdwz-5" edge="1">
@@ -691,123 +691,60 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bRveYutDLUsxMJOCULvF" name="Page-6">
-    <mxGraphModel dx="2350" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2950" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-60" value="" style="group;rounded=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;html=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-80" y="-210" width="1780" height="820" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-63" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-100" y="-880" width="1780" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-2" value="&lt;b&gt;Call Center Agent &lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="190" y="210" width="100" height="100" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-2" value="&lt;b&gt;Call Center Agent &lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="185" y="225" width="105" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-5" value="&lt;b&gt;Member Services/Order Support&lt;/b&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="380" y="220" width="80" height="108.11" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-5" value="&lt;b&gt;Member Services/Order Support&lt;/b&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="380" y="220" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-8" value="RMA with Dual Role Setup.Business decides which route&amp;nbsp; to go" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="540" y="240" width="120" height="80" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-8" value="RMA with Dual Role Setup.Business decides which route&amp;nbsp; to go" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="540" y="190" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-9" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-60" target="7YMeWKjVSqpXMXS0vWH2-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="270" as="sourcePoint" />
-            <mxPoint x="470" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-11" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Customer Details poulated based on Order Number&lt;/li&gt;&lt;li&gt;Inquiry Creation&lt;/li&gt;&lt;li&gt;Add Customer Details&lt;/li&gt;&lt;li&gt;Add Customer Totals&lt;/li&gt;&lt;li&gt;Add Customer Payment methods coupons&lt;/li&gt;&lt;li&gt;Profit Calculation . CS Net Price - DS Net Price&lt;/li&gt;&lt;li&gt;MS Issues Check box&lt;/li&gt;&lt;li&gt;No IR required checkbox . This automates Profit , volume and PG claw back&lt;/li&gt;&lt;li&gt;Bank Details integration for EFT&lt;/li&gt;&lt;li&gt;CC who will process ? &lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="650" y="600" width="270" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-10" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-60" source="7YMeWKjVSqpXMXS0vWH2-2" target="7YMeWKjVSqpXMXS0vWH2-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="270" as="sourcePoint" />
-            <mxPoint x="470" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-12" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Case File with Customer Details&lt;/li&gt;&lt;li&gt;New Subject Code for MOR Customer refunds&lt;/li&gt;&lt;li&gt;Origination&lt;/li&gt;&lt;li&gt;HCM Inquiry new setups&lt;/li&gt;&lt;li&gt;Customer Details created as the we are doing today&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="770" y="190" width="190" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-11" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Customer Details poulated based on Order Number&lt;/li&gt;&lt;li&gt;Inquiry Creation&lt;/li&gt;&lt;li&gt;Add Customer Details&lt;/li&gt;&lt;li&gt;Add Customer Totals&lt;/li&gt;&lt;li&gt;Add Customer Payment methods coupons&lt;/li&gt;&lt;li&gt;Profit Calculation . CS Net Price - DS Net Price&lt;/li&gt;&lt;li&gt;MS Issues Check box&lt;/li&gt;&lt;li&gt;No IR required checkbox . This automates Profit , volume and PG claw back&lt;/li&gt;&lt;li&gt;Bank Details integration for EFT&lt;/li&gt;&lt;li&gt;CC who will process ? &lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="490" y="420" width="220" height="360" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-26" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Search with Order number&lt;/li&gt;&lt;li&gt;Choose items to refund&lt;/li&gt;&lt;li&gt;30 Day Refund Policy&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="1035" y="190" width="190" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-12" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Case File with Customer Details&lt;/li&gt;&lt;li&gt;New Subject Code for MOR Customer refunds&lt;/li&gt;&lt;li&gt;Origination&lt;/li&gt;&lt;li&gt;HCM Inquiry new setups&lt;/li&gt;&lt;li&gt;Customer Details created as the we are doing today&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="700" y="210" width="190" height="160" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-31" value="&lt;b&gt;Cas File Details&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="730" y="200" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-25" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;exitX=0.433;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.433;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-60" source="7YMeWKjVSqpXMXS0vWH2-8" target="7YMeWKjVSqpXMXS0vWH2-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="380" as="sourcePoint" />
-            <mxPoint x="470" y="330" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-32" value="&lt;b&gt;Order Search&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="970" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-26" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Search with Order number&lt;/li&gt;&lt;li&gt;Choose items to refund&lt;/li&gt;&lt;li&gt;30 Day Refund Policy&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="950" y="210" width="150" height="160" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-39" value="" style="sketch=0;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_data_store;labelBackgroundColor=none;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="1390" y="786.67" width="120" height="173.33" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-31" value="&lt;b&gt;Cas File Details&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="725" y="195" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-32" value="&lt;b&gt;Order Search&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="970" y="195" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-34" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Add Customer Details&lt;br&gt;&lt;/li&gt;&lt;li&gt;Add Customer Totals&lt;/li&gt;&lt;li&gt;Add Customer Payment methods coupons&lt;/li&gt;&lt;li&gt;Profit Calculation . CS Net Price - DS Net Price&lt;br&gt;&lt;/li&gt;&lt;li&gt;MS Issues Check box&lt;/li&gt;&lt;li&gt;No IR required checkbox . This automates Profit , volume and PG claw back&lt;/li&gt;&lt;li&gt;Bank Details integration for EFT &lt;br&gt;&lt;/li&gt;&lt;li&gt;CC who will process ? &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="1160" y="160" width="230" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-39" value="" style="sketch=0;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_data_store;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="1429.84" y="530" width="90.31" height="130.44" as="geometry" />
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-41" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-60" source="7YMeWKjVSqpXMXS0vWH2-34" target="7YMeWKjVSqpXMXS0vWH2-39">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1275" y="430" as="sourcePoint" />
-            <mxPoint x="1270" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-42" value="&lt;div&gt;&lt;b&gt;NO IR required Profit&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Details feed to MCS System&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-42" value="&lt;div&gt;&lt;b&gt;NO IR required Profit&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Details feed to MCS System&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
           <mxGeometry x="1290" y="460" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-43" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;labelBorderColor=none;fontColor=default;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="1600" width="140" height="140" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-45" value="&lt;div&gt;Propay, Paypal - &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment Directly &lt;br&gt;&lt;/div&gt;&lt;div&gt;issued by MS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="1670" y="130" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-44" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontColor=default;entryX=0;entryY=0.75;entryDx=0;entryDy=0;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-60" target="7YMeWKjVSqpXMXS0vWH2-43">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1390" y="260" as="sourcePoint" />
-            <mxPoint x="1550" y="260" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="RSH5sy_0qvbEPN5NQJVI-7" value="&lt;b&gt;Customer&lt;/b&gt;" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="7YMeWKjVSqpXMXS0vWH2-63" vertex="1">
+          <mxGeometry y="220" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-45" value="&lt;div&gt;Propay, Paypal - &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment Directly &lt;br&gt;&lt;/div&gt;&lt;div&gt;issued by MS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="1450" y="135" width="110" height="60" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-34" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Add Customer Details&lt;br&gt;&lt;/li&gt;&lt;li&gt;Add Customer Totals&lt;/li&gt;&lt;li&gt;Add Customer Payment methods coupons&lt;/li&gt;&lt;li&gt;Profit Calculation . CS Net Price - DS Net Price&lt;br&gt;&lt;/li&gt;&lt;li&gt;MS Issues Check box&lt;/li&gt;&lt;li&gt;No IR required checkbox . This automates Profit , volume and PG claw back&lt;/li&gt;&lt;li&gt;Bank Details integration for EFT &lt;br&gt;&lt;/li&gt;&lt;li&gt;CC who will process ? &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="1350" y="100" width="230" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-49" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontColor=default;entryX=-0.008;entryY=0.704;entryDx=0;entryDy=0;entryPerimeter=0;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-60" target="7YMeWKjVSqpXMXS0vWH2-52">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1390" y="320" as="sourcePoint" />
-            <mxPoint x="1580" y="355" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-53" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;IRForm created for Profit and PG&lt;/li&gt;&lt;li&gt;This is based on DS Totals&lt;/li&gt;&lt;li&gt;Manual approval needed for automation&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
+          <mxGeometry x="1030" y="760" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-50" value="&lt;div&gt;EFT Goes to &lt;br&gt;&lt;/div&gt;&lt;div&gt;AP/AR Automation&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" connectable="0" parent="7YMeWKjVSqpXMXS0vWH2-49">
-          <mxGeometry x="-0.2701" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-52" value="&lt;ol&gt;&lt;li&gt;GBS Krakow&lt;/li&gt;&lt;li&gt;Segregation of Duties&lt;br&gt;&lt;/li&gt;&lt;li&gt;AP AR Automation&lt;/li&gt;&lt;li&gt;Approval Workflow ?&lt;/li&gt;&lt;li&gt;CM DM Creation - This would be based on Change Order in OM . Manual Decision&lt;/li&gt;&lt;li&gt;GL Codes?&lt;/li&gt;&lt;li&gt;OFAC Screening ?&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="-510" width="210" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-52" value="&lt;ol&gt;&lt;li&gt;GBS Krakow&lt;/li&gt;&lt;li&gt;Segregation of Duties&lt;br&gt;&lt;/li&gt;&lt;li&gt;AP AR Automation&lt;/li&gt;&lt;li&gt;Approval Workflow ?&lt;/li&gt;&lt;li&gt;CM DM Creation - This would be based on Change Order in OM . Manual Decision&lt;/li&gt;&lt;li&gt;GL Codes?&lt;/li&gt;&lt;li&gt;OFAC Screening ?&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontColor=default;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="1570" y="270" width="210" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-53" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;IRForm created for Profit and PG&lt;/li&gt;&lt;li&gt;This is based on DS Totals&lt;/li&gt;&lt;li&gt;Manual approval needed for automation&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;fontColor=default;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry x="1050" y="510.44" width="120" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-54" value="IR Required" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontColor=default;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-60">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1220" y="430" as="sourcePoint" />
-            <mxPoint x="1100" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-55" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontColor=default;exitX=0.37;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-60" source="7YMeWKjVSqpXMXS0vWH2-11" target="7YMeWKjVSqpXMXS0vWH2-39">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="778.5714285714286" as="sourcePoint" />
-            <mxPoint x="1600" y="830" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="820" />
-              <mxPoint x="1475" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-57" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-60" target="7YMeWKjVSqpXMXS0vWH2-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="585" as="sourcePoint" />
-            <mxPoint x="970" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RSH5sy_0qvbEPN5NQJVI-7" value="&lt;b&gt;Customer&lt;/b&gt;" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;" parent="7YMeWKjVSqpXMXS0vWH2-60" vertex="1">
-          <mxGeometry y="210" width="120" height="100" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-43" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;labelBorderColor=none;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-1000" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
