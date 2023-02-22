@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T03:28:00.688Z" agent="5.0 (Windows)" etag="2nwljg5BsBkGq6iXGP1o" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T03:29:00.881Z" agent="5.0 (Windows)" etag="RmgcpWE5cc46iDR0FyyW" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -746,11 +746,8 @@
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-32" value="&lt;b&gt;Order Search&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="950" y="45" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-34" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Add Customer Details&lt;br&gt;&lt;/li&gt;&lt;li&gt;Add Customer Totals&lt;/li&gt;&lt;li&gt;Add Customer Payment methods coupons&lt;/li&gt;&lt;li&gt;Profit Calculation&lt;/li&gt;&lt;li&gt;MS Issues Check box&lt;/li&gt;&lt;li&gt;IR required checkbox . This automates Profit , volume and PG claw back&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="10" width="170" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-35" value="Refunds Form" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="45" width="100" height="30" as="geometry" />
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-34" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Add Customer Details&lt;br&gt;&lt;/li&gt;&lt;li&gt;Add Customer Totals&lt;/li&gt;&lt;li&gt;Add Customer Payment methods coupons&lt;/li&gt;&lt;li&gt;Profit Calculation . CS Net Price - DS Net Price&lt;br&gt;&lt;/li&gt;&lt;li&gt;MS Issues Check box&lt;/li&gt;&lt;li&gt;IR required checkbox . This automates Profit , volume and PG claw back&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="10" width="230" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
