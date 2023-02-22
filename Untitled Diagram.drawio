@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T03:29:00.881Z" agent="5.0 (Windows)" etag="RmgcpWE5cc46iDR0FyyW" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T03:35:22.152Z" agent="5.0 (Windows)" etag="ZmPP-ECCRjVOFnYAUeI2" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bRveYutDLUsxMJOCULvF" name="Page-6">
-    <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -737,7 +737,7 @@
             <mxPoint x="450" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-26" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Search with Order number&lt;/li&gt;&lt;li&gt;Choose items to refund&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-26" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Search with Order number&lt;/li&gt;&lt;li&gt;Choose items to refund&lt;/li&gt;&lt;li&gt;30 Day Refund Policy&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="930" y="60" width="150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-31" value="&lt;b&gt;Cas File Details&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
@@ -748,6 +748,30 @@
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-34" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Add Customer Details&lt;br&gt;&lt;/li&gt;&lt;li&gt;Add Customer Totals&lt;/li&gt;&lt;li&gt;Add Customer Payment methods coupons&lt;/li&gt;&lt;li&gt;Profit Calculation . CS Net Price - DS Net Price&lt;br&gt;&lt;/li&gt;&lt;li&gt;MS Issues Check box&lt;/li&gt;&lt;li&gt;IR required checkbox . This automates Profit , volume and PG claw back&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="1140" y="10" width="230" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-39" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_data_store;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1209.84" y="370" width="90.31" height="130.44" as="geometry" />
+        </mxCell>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-41" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7YMeWKjVSqpXMXS0vWH2-34" target="7YMeWKjVSqpXMXS0vWH2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1255" y="280" as="sourcePoint" />
+            <mxPoint x="1250" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-42" value="&lt;b&gt;Profit Details feed to MCS System&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="315" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;labelBorderColor=default;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1540" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-44" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1370" y="110" as="sourcePoint" />
+            <mxPoint x="1530" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-45" value="&lt;div&gt;Propay, Paypal - &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment Directly &lt;br&gt;&lt;/div&gt;&lt;div&gt;issued by MS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="70" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
