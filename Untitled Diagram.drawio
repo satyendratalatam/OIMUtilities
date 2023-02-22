@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T17:17:21.414Z" agent="5.0 (Windows)" etag="VUT7a-pSYPgQCY7j1RHR" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T17:20:25.595Z" agent="5.0 (Windows)" etag="T0_iYzCbLDgYG5lrZXz-" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -910,6 +910,20 @@
         </mxCell>
         <mxCell id="zleqKUxU88c-zGdEO-kY-57" value="&lt;div&gt;&lt;b&gt;NO IR required Profit&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Details feed to MCS System&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="-50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-62" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.928;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7YMeWKjVSqpXMXS0vWH2-11" target="zleqKUxU88c-zGdEO-kY-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="-400" as="sourcePoint" />
+            <mxPoint x="810" y="-450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="598" y="110" />
+              <mxPoint x="2060" y="110" />
+              <mxPoint x="2070" y="-980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-63" value="&lt;div&gt;Propay, Paypal - &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment Directly &lt;br&gt;&lt;/div&gt;&lt;div&gt;issued by MS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1215" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
