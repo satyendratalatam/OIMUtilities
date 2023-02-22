@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T13:08:52.840Z" agent="5.0 (Windows)" etag="CosNCTwXSxaT0N---b1v" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T13:10:57.174Z" agent="5.0 (Windows)" etag="PCxQZ3J4PIDsYj-OD-Um" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -776,6 +776,31 @@
             <mxPoint x="1640" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=none;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-63" source="7YMeWKjVSqpXMXS0vWH2-8" target="7YMeWKjVSqpXMXS0vWH2-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1550" y="500" as="sourcePoint" />
+            <mxPoint x="1600" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="603" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-63" source="7YMeWKjVSqpXMXS0vWH2-11" target="7YMeWKjVSqpXMXS0vWH2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="880" as="sourcePoint" />
+            <mxPoint x="1750" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="985" y="1100" />
+              <mxPoint x="1720" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-63" source="7YMeWKjVSqpXMXS0vWH2-11" target="7YMeWKjVSqpXMXS0vWH2-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="880" as="sourcePoint" />
+            <mxPoint x="1030" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-52" value="&lt;ol&gt;&lt;li&gt;GBS Krakow&lt;/li&gt;&lt;li&gt;Segregation of Duties&lt;br&gt;&lt;/li&gt;&lt;li&gt;AP AR Automation&lt;/li&gt;&lt;li&gt;Approval Workflow ?&lt;/li&gt;&lt;li&gt;CM DM Creation - This would be based on Change Order in OM . Manual Decision&lt;/li&gt;&lt;li&gt;GL Codes?&lt;/li&gt;&lt;li&gt;OFAC Screening ?&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1740" y="-765" width="210" height="260" as="geometry" />
         </mxCell>
@@ -809,6 +834,15 @@
         <mxCell id="zleqKUxU88c-zGdEO-kY-32" value="Payment issued by VendorManagement/AP/AR " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zleqKUxU88c-zGdEO-kY-31">
           <mxGeometry x="-0.2439" y="2" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.353;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7YMeWKjVSqpXMXS0vWH2-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-640" as="sourcePoint" />
+            <mxPoint x="530" y="-350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="-350" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
