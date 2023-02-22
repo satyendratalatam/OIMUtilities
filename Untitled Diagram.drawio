@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T13:06:15.812Z" agent="5.0 (Windows)" etag="ibTmEZr5eqP60FUHeFtN" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T13:08:52.840Z" agent="5.0 (Windows)" etag="CosNCTwXSxaT0N---b1v" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bRveYutDLUsxMJOCULvF" name="Page-6">
-    <mxGraphModel dx="2600" dy="3052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2950" dy="3222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -726,13 +726,13 @@
           <mxGeometry x="1660" y="790" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-42" value="&lt;div&gt;&lt;b&gt;NO IR required Profit&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Details feed to MCS System&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
-          <mxGeometry x="1290" y="460" width="180" height="40" as="geometry" />
+          <mxGeometry x="1680" y="590" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-34" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Add Customer Details&lt;br&gt;&lt;/li&gt;&lt;li&gt;Add Customer Totals&lt;/li&gt;&lt;li&gt;Add Customer Payment methods coupons&lt;/li&gt;&lt;li&gt;Profit Calculation . CS Net Price - DS Net Price&lt;br&gt;&lt;/li&gt;&lt;li&gt;MS Issues Check box&lt;/li&gt;&lt;li&gt;No IR required checkbox . This automates Profit , volume and PG claw back&lt;/li&gt;&lt;li&gt;Bank Details integration for EFT &lt;br&gt;&lt;/li&gt;&lt;li&gt;CC who will process ? &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
           <mxGeometry x="1510" y="120" width="230" height="260" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-53" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;IRForm created for Profit and PG&lt;/li&gt;&lt;li&gt;This is based on DS Totals&lt;/li&gt;&lt;li&gt;Manual approval needed for automation&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
-          <mxGeometry x="1260" y="760" width="200" height="200" as="geometry" />
+          <mxGeometry x="1390" y="760" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zleqKUxU88c-zGdEO-kY-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-63" source="7YMeWKjVSqpXMXS0vWH2-2" target="7YMeWKjVSqpXMXS0vWH2-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -762,6 +762,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="480" as="sourcePoint" />
             <mxPoint x="930" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.906;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-63" source="7YMeWKjVSqpXMXS0vWH2-34" target="7YMeWKjVSqpXMXS0vWH2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="560" as="sourcePoint" />
+            <mxPoint x="1640" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zleqKUxU88c-zGdEO-kY-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.13;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-63" source="7YMeWKjVSqpXMXS0vWH2-34" target="7YMeWKjVSqpXMXS0vWH2-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="560" as="sourcePoint" />
+            <mxPoint x="1640" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-52" value="&lt;ol&gt;&lt;li&gt;GBS Krakow&lt;/li&gt;&lt;li&gt;Segregation of Duties&lt;br&gt;&lt;/li&gt;&lt;li&gt;AP AR Automation&lt;/li&gt;&lt;li&gt;Approval Workflow ?&lt;/li&gt;&lt;li&gt;CM DM Creation - This would be based on Change Order in OM . Manual Decision&lt;/li&gt;&lt;li&gt;GL Codes?&lt;/li&gt;&lt;li&gt;OFAC Screening ?&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
@@ -794,7 +806,7 @@
             <mxPoint x="1730" y="-640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zleqKUxU88c-zGdEO-kY-32" value="Payment issued by AP/AR " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zleqKUxU88c-zGdEO-kY-31">
+        <mxCell id="zleqKUxU88c-zGdEO-kY-32" value="Payment issued by VendorManagement/AP/AR " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zleqKUxU88c-zGdEO-kY-31">
           <mxGeometry x="-0.2439" y="2" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
