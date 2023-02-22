@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T13:14:30.258Z" agent="5.0 (Windows)" etag="VPa56AaeS4X4zEXz4CA0" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T13:15:04.828Z" agent="5.0 (Windows)" etag="cFJcoe5KVV04csSKQeBf" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -826,7 +826,7 @@
         <mxCell id="RSH5sy_0qvbEPN5NQJVI-7" value="&lt;b&gt;Customer&lt;/b&gt;" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="-905" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zleqKUxU88c-zGdEO-kY-7" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=0" edge="1" parent="1" source="RSH5sy_0qvbEPN5NQJVI-7">
+        <mxCell id="zleqKUxU88c-zGdEO-kY-7" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=0;strokeWidth=2;" edge="1" parent="1" source="RSH5sy_0qvbEPN5NQJVI-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="-780" as="sourcePoint" />
             <mxPoint x="-200" y="-835" as="targetPoint" />
