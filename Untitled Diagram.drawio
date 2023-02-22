@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T04:11:06.718Z" agent="5.0 (Windows)" etag="9vxnq06uUmLtR8LZnZwu" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T04:11:48.402Z" agent="5.0 (Windows)" etag="eojsY0DzqQK5Q_-7SB42" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -691,12 +691,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bRveYutDLUsxMJOCULvF" name="Page-6">
-    <mxGraphModel dx="2350" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2350" dy="2930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-63" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-280" y="-930" width="1780" height="960" as="geometry" />
+          <mxGeometry x="-300" y="-1110" width="1780" height="960" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-2" value="&lt;b&gt;Call Center Agent &lt;/b&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
           <mxGeometry x="170" y="210" width="110" height="140" as="geometry" />
@@ -711,19 +711,16 @@
           <mxGeometry x="650" y="600" width="270" height="360" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-12" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Case File with Customer Details&lt;/li&gt;&lt;li&gt;New Subject Code for MOR Customer refunds&lt;/li&gt;&lt;li&gt;Origination&lt;/li&gt;&lt;li&gt;HCM Inquiry new setups&lt;/li&gt;&lt;li&gt;Customer Details created as the we are doing today&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
-          <mxGeometry x="770" y="190" width="190" height="170" as="geometry" />
+          <mxGeometry x="760" y="195" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-26" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Search with Order number&lt;/li&gt;&lt;li&gt;Choose items to refund&lt;/li&gt;&lt;li&gt;30 Day Refund Policy&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
-          <mxGeometry x="1040" y="190" width="190" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="zleqKUxU88c-zGdEO-kY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7YMeWKjVSqpXMXS0vWH2-63" source="7YMeWKjVSqpXMXS0vWH2-31" target="7YMeWKjVSqpXMXS0vWH2-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1040" y="195" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-31" value="&lt;b&gt;Cas File Details&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
           <mxGeometry x="800" y="180" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-32" value="&lt;b&gt;Order Search&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
-          <mxGeometry x="1080" y="180" width="100" height="30" as="geometry" />
+          <mxGeometry x="1090" y="175" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-39" value="" style="outlineConnect=0;fontColor=default;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=middle;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_data_store;labelBackgroundColor=none;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
           <mxGeometry x="1390" y="790" width="120" height="170" as="geometry" />
@@ -738,7 +735,7 @@
           <mxGeometry x="-70" y="205" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-34" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Add Customer Details&lt;br&gt;&lt;/li&gt;&lt;li&gt;Add Customer Totals&lt;/li&gt;&lt;li&gt;Add Customer Payment methods coupons&lt;/li&gt;&lt;li&gt;Profit Calculation . CS Net Price - DS Net Price&lt;br&gt;&lt;/li&gt;&lt;li&gt;MS Issues Check box&lt;/li&gt;&lt;li&gt;No IR required checkbox . This automates Profit , volume and PG claw back&lt;/li&gt;&lt;li&gt;Bank Details integration for EFT &lt;br&gt;&lt;/li&gt;&lt;li&gt;CC who will process ? &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;labelBackgroundColor=none;fontColor=default;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
-          <mxGeometry x="1340" y="100" width="230" height="260" as="geometry" />
+          <mxGeometry x="1345" y="105" width="230" height="260" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-53" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;IRForm created for Profit and PG&lt;/li&gt;&lt;li&gt;This is based on DS Totals&lt;/li&gt;&lt;li&gt;Manual approval needed for automation&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7YMeWKjVSqpXMXS0vWH2-63">
           <mxGeometry x="1030" y="760" width="200" height="200" as="geometry" />
