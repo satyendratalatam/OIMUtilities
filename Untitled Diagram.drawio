@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T03:08:55.027Z" agent="5.0 (Windows)" etag="LzLdZxYiRBIUERF7CqBr" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-22T03:13:32.596Z" agent="5.0 (Windows)" etag="4PNq-8vlGQrv3B6jPckE" version="20.8.20" type="github" pages="6">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1050" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -695,7 +695,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RSH5sy_0qvbEPN5NQJVI-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" parent="1" vertex="1">
+        <mxCell id="RSH5sy_0qvbEPN5NQJVI-7" value="&lt;b&gt;Customer&lt;/b&gt;" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" parent="1" vertex="1">
           <mxGeometry x="40" y="70" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7YMeWKjVSqpXMXS0vWH2-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;" edge="1" parent="1" source="RSH5sy_0qvbEPN5NQJVI-7">
@@ -704,8 +704,20 @@
             <mxPoint x="190" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7YMeWKjVSqpXMXS0vWH2-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-2" value="&lt;b&gt;Call Center Agent &lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
           <mxGeometry x="190" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-5" value="&lt;b&gt;Member Services/Order Support&lt;/b&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="59.2" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7YMeWKjVSqpXMXS0vWH2-9" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7YMeWKjVSqpXMXS0vWH2-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="120" as="sourcePoint" />
+            <mxPoint x="450" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
