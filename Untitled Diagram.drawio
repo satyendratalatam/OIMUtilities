@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T15:19:52.350Z" agent="5.0 (Windows)" etag="Kl4KdNx6d-BTAelPig2e" version="21.0.10" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-29T15:30:30.348Z" agent="5.0 (Windows)" etag="dFscbt5bZ7Tm2XFTieWR" version="21.0.10" type="github" pages="7">
   <diagram id="aFmRTiPEveCHjwJSOjMw" name="Page-1">
     <mxGraphModel dx="1274" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -983,18 +983,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2EEtV5g6L2bg3JsVtMPy" name="Page-7">
-    <mxGraphModel dx="1875" dy="3218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2097" dy="3218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dx9Rd2HWQREonJHBKxGC-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="-2170" width="290" height="440" as="geometry" />
+          <mxGeometry x="630" y="-2170" width="810" height="500" as="geometry" />
         </mxCell>
         <mxCell id="dx9Rd2HWQREonJHBKxGC-1" value="RMA Transactional Data" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="892" y="-1950" width="76" height="100" as="geometry" />
+          <mxGeometry x="976" y="-1930" width="138" height="181.58" as="geometry" />
         </mxCell>
         <mxCell id="dx9Rd2HWQREonJHBKxGC-2" value="Distributor Data" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb" vertex="1" parent="1">
-          <mxGeometry x="910" y="-2140" width="70" height="98" as="geometry" />
+          <mxGeometry x="974" y="-2140" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dx9Rd2HWQREonJHBKxGC-7" value="Distributor API" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="300" y="-2060" width="130" height="98" as="geometry" />
@@ -1012,13 +1012,46 @@
           <mxGeometry x="310" y="-1713.8000000000002" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dx9Rd2HWQREonJHBKxGC-16" value="Finance API" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="-1210" width="95" height="88" as="geometry" />
+          <mxGeometry x="317.5" y="-1140" width="95" height="88" as="geometry" />
         </mxCell>
         <mxCell id="dx9Rd2HWQREonJHBKxGC-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-1570" width="480" height="830" as="geometry" />
+          <mxGeometry x="640" y="-1570" width="810" height="1430" as="geometry" />
         </mxCell>
         <mxCell id="dx9Rd2HWQREonJHBKxGC-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.mrp_erp;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-1530" width="150" height="160" as="geometry" />
+          <mxGeometry x="969" y="-1520" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.mrp_erp;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-1280" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-31" value="Order Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-1340" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-32" value="Document&amp;nbsp; Approval Managemnt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="-1082" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-34" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="969" y="-970" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-35" value="DM PRD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="-790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-36" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="969" y="-690" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-37" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="982" y="-390" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-38" value="CCPRD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1029" y="-520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-43" value="Marketing cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-220" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-44" value="Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="944.5" y="-1650" width="221" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dx9Rd2HWQREonJHBKxGC-45" value="&lt;div&gt;On Premise&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-110" width="328" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
